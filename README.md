@@ -19,13 +19,13 @@ In this project, I created a medical image annotation job using Appen's platform
 
 The second project focused on building a classification model to classify images of chest X-rays using Google AutoML, an automated machine learning tool. The goal was to detect pneumonia from the X-ray images.
 
-- [Project 2 PDF](link-to-project-2-pdf)
+- [Project 2 PDF](https://github.com/AbdulelahMaj/ai_product_manager_udacity/blob/main/project02_build_a_model/automl-modeling-report-all-fixed.pdf)
 
 ## Project 3: AI Project Proposal
 
 In the final project, I completed a proposal for a complete AI product of my own design. The proposal considered various aspects such as users, data source, design practices, and iteration over time.
 
-- [Project 3 PDF](link-to-project-3-pdf)
+- [Project 3 PDF](https://github.com/AbdulelahMaj/ai_product_manager_udacity/blob/main/project03_creating_ai_product_business_proposal/capstone-project-starter-file.pdf)
 
 ## Usage
 
