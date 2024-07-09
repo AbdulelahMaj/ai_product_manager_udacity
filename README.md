@@ -13,7 +13,7 @@ This repository contains my projects completed as part of the AI Product Manager
 
 In this project, I created a medical image annotation job using Appen's platform for pneumonia detection. The project involved defining the annotation guidelines, setting up the job on the platform, and managing the annotation process.
 
-- [Project 1 PDF]([link-to-project-1-pdf](https://github.com/AbdulelahMaj/ai_product_manager_udacity/blob/main/project01_create_medical_image_annotation_job/project-proposal.pdf))
+- [Project 1 PDF]([link-to-project-1-pdf]https://github.com/AbdulelahMaj/ai_product_manager_udacity/blob/main/project01_create_medical_image_annotation_job/project-proposal.pdf))
 
 ## Project 2: AutoML for Pneumonia Detection
 
